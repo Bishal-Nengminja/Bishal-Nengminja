@@ -64,12 +64,3 @@ I work across the full data science lifecycle — from **data cleaning and featu
   <img src="https://github-readme-stats.vercel.app/api?username=bishal-nengminja&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
----
-
-### 🏅 Certifications
-- IBM Cognitive Class – *Python 101 for Data Science*  
-- IBM Cognitive Class – *Data Science 101*  
-- IBM Cognitive Class – *Data Visualization with Python*  
-- freeCodeCamp – *Machine Learning with Python*  
-- Cognitive Class – *Deep Learning with TensorFlow*  
-- IBM SkillsBuild – *Professional Skills Certification*
